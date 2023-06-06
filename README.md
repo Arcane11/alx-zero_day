@@ -1,2 +1,1 @@
-My first readme
-this is me.
+First professional Software engineering course
